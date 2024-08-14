@@ -10,3 +10,18 @@ This Python script converts an image into an SSTV (Slow Scan Television) wave fi
 - Python 3.x
 - pysstv library
 - PIL (Pillow) library
+
+## Installation
+1. Clone the repository:
+```
+https://github.com/William2716057/SSTVimageCreate.git
+```
+2. Install the required Python packages:
+```
+pip install pysstv Pillow
+```
+
+### Usage
+1. Place the image you want to convert in the same directory as the script and rename it to image.jpg (or update the filename in the script).
+
+2. Run the script:
