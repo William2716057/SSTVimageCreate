@@ -25,3 +25,6 @@ pip install pysstv Pillow
 1. Place the image you want to convert in the same directory as the script and rename it to image.jpg (or update the filename in the script).
 
 2. Run the script:
+```
+SSTVimageCreate.py
+```
