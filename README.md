@@ -35,9 +35,7 @@ python3 SSTVimageCreate.py
 - Sample Rate: Adjust the sample rate by modifying 44100 to another value.
 - Bit Depth: Modify the bit depth by changing 16 to another supported value.
 
-### License
-This project is licensed under the MIT License - see the LICENSE file for details.
+### Acknowledgments
+- pysstv - The library used to generate SSTV wave files.
+- Pillow - The Python Imaging Library used to load and manipulate images.
 
-Acknowledgments
-pysstv - The library used to generate SSTV wave files.
-Pillow - The Python Imaging Library used to load and manipulate images.
