@@ -26,5 +26,18 @@ pip install pysstv Pillow
 
 2. Run the script:
 ```
-SSTVimageCreate.py
+python3 SSTVimageCreate.py
 ```
+3. After running the script, an output.wav file will be created in the same directory.
+
+### Customization
+- Image File: Change 'image.jpg' to the path of your desired image.
+- Sample Rate: Adjust the sample rate by modifying 44100 to another value.
+- Bit Depth: Modify the bit depth by changing 16 to another supported value.
+
+### License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Acknowledgments
+pysstv - The library used to generate SSTV wave files.
+Pillow - The Python Imaging Library used to load and manipulate images.
